@@ -1,0 +1,21 @@
+#include <stdio.h>
+/**
+ * main - entry point for the programm.
+ *
+ * Return: 0 if no error, returns non zero if error
+ *
+ */
+int main(void)
+{
+int a;
+long int b;
+long long int c;
+char d;
+float f;
+printf("Size of a char: %lu byte(s)\n", (Unsigned long)sizeof(d));
+printf("Size of an int: %lu byte(s)\n", (Unsigned long)sizeof(a));
+printf("Size of a long int: %lu byte(s)\n", (Usigned long)sizeof(b));
+printf("Size of a long long int: %lu byte(s)\n", (Usigned long)sizeof(c));
+printf("Size of a float: %lu byte(s)\n", (Usigned long)sizeof(f));
+return (0);
+}
