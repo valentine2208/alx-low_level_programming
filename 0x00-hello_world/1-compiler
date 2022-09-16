@@ -1,0 +1,2 @@
+#1/bin/bash
+gss -c $CFILE$FILE
