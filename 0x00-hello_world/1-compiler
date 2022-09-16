@@ -1,2 +1,2 @@
-#1/bin/bash
+#!/bin/bash
 gss -c $CFILE$FILE
