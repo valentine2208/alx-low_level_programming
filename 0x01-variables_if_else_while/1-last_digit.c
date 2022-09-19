@@ -2,8 +2,9 @@
 #include<time.h>
 #include<stdio.h>
 /**
- * main- entry point
- * Discription
+ * main - entry point
+ * Discription: print the value of n status:
+ * greater than, is zero and is not less than 6
  * Return: 0 on success
  */
 int main(void)
@@ -20,3 +21,4 @@ printf("Last digit of %d is %d and is 0\n", n, digit);
 else if (digit < 6 && digit != 0)
 printf("Last digit of %d is %d and is less  than 6 and not 0\n", n, digit);
 return (0);
+}
