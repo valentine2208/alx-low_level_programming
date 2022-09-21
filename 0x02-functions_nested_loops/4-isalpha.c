@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * isalpha- entry point
+ *_isalpha- entry point
  *
- * Return: 0
+ * @c : character to check case
+ *
+ * Return: 0 or 1
  */
 int _isalpha(int c)
 {

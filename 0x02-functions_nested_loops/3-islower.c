@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * islower- entry point
+ *_islower- entry point
  *
- * Return: 0
+ * @c : character to check the case
+ *
+ * Return: 0 or 1
  */
 int _islower(int c)
 {

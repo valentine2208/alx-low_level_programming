@@ -1,6 +1,8 @@
 #include "main.h"
 /*
  * print_alpabet_x10- entry point
+ * 
+ * Description: whatever
  *
  * return: 0
  */
